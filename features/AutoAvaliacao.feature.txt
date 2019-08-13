@@ -1,0 +1,7 @@
+AutoAvaliação
+Cenários:
+
+
+-Aprofundando em GitHubs
+
+-Sem discrepância
