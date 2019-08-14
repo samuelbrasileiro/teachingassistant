@@ -1,9 +1,9 @@
-AutoAvaliação
-Cenários:
+AutoAvaliacao
+Cenarios:
 
 
 -Aprofundando txt em GitHubs - Discrepância 1
 
--Sem discrepancias
+-Sem discrepancias - Discrepancia 2
 
 - dei esse commit aqui
