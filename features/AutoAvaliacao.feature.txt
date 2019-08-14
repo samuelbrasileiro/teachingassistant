@@ -2,6 +2,13 @@ AutoAvaliacao
 Cenarios:
 
 
+-Aprofundando em GitHubs ok
+
+-Sem discrepancias
+
+- Otavio freire Ž rico
+
+
 -Aprofundando txt em GitHubs - Discrep‰ncia 1
 
 -Sem discrepancias - Discrepancia 2
