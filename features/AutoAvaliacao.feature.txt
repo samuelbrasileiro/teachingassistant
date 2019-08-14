@@ -8,9 +8,3 @@ Cenarios:
 
 - Otavio freire Ž rico
 
--Aprofundando txt em GitHubs - Discrep‰ncia 1
-
--Sem discrepancias - Discrepancia 2
-
-- dei esse commit aqui
-
