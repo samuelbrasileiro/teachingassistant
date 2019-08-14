@@ -1,6 +1,5 @@
-AutoAvaliação
-Cenários:
-
+AutoAvaliacao
+Cenarios:
 
 
 -Aprofundando em GitHubs ok
@@ -8,3 +7,10 @@ Cenários:
 -Sem discrepancias
 
 - Otavio freire é rico
+
+-Aprofundando txt em GitHubs - Discrepância 1
+
+-Sem discrepancias - Discrepancia 2
+
+- dei esse commit aqui
+
