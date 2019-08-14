@@ -5,3 +5,5 @@ Cen‡rios:
 -Aprofundando txt em GitHubs
 
 -Sem discrepancias
+
+- dei esse commit aqui
