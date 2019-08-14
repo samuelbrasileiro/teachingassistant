@@ -2,6 +2,7 @@ AutoAvaliação
 Cenários:
 
 
--Aprofundando sad dms em GitHubs
+
+-Aprofundando em GitHubs ok
 
 -Sem discrepancias
