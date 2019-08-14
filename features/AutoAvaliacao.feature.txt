@@ -2,6 +2,6 @@ AutoAvaliação
 Cenários:
 
 
--Aprofundando em GitHubs
+-Aprofundando txt em GitHubs
 
 -Sem discrepancias
