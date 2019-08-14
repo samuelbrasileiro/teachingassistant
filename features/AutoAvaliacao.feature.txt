@@ -2,7 +2,7 @@ AutoAvaliação
 Cenários:
 
 
--Aprofundando txt em GitHubs
+-Aprofundando txt em GitHubs - Discrepância 1
 
 -Sem discrepancias
 
